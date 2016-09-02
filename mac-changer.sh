@@ -1,4 +1,5 @@
 #!/bin/bash
+# dorelo 2016
 CURRENT="$(ifconfig en0 |grep ether)"
 echo "Current MAC : ${CURRENT}"
 /System/Library/PrivateFrameworks/Apple80211.framework/Resources/airport -z
