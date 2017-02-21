@@ -1,3 +1,3 @@
 # Scripts Repository
 
-[+] Collection of useful scripts I have written and collected
+[+] Useful scripts I have written and collected
