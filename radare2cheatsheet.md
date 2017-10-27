@@ -1,4 +1,4 @@
-yntax
+# Syntax
 Every char has a meaning:
 ```p``` - print
 ```w``` - write
