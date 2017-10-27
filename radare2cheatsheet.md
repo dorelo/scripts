@@ -36,7 +36,7 @@ All commands are documented. Append a ```?``` to anything for documentation.
 - ```q``` will exit a view
 - ```V!``` for a very useful (what I am calling) debugging view ```TAB``` to switch between cells in this view
 
-![debug view](https://i.imgur.com/vxALqli.png "Debug view")
+![debug view](https://github.com/dorelo/scripts/blob/master/images/Screen%20Shot%202017-10-27%20at%2013.09.21.png "Debug view")
 
 Hitting ```V``` a number of times will cycle you between different visual views (tabbed, graph etc, raw etc)
 
